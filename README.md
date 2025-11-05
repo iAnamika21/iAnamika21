@@ -24,7 +24,7 @@ A MCA + B.Ed graduate blending teaching and technology to make learning smarter 
 ## 🌐 Connect with Me
 <p align="left">
   <a href="https://x.com/iAnamika_?t=ArhgghgsQEhj18CDf-APvA&s=09" target="_blank">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/FOLLOW-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
 <p align="left">
