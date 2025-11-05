@@ -3,17 +3,6 @@ A MCA + B.Ed graduate blending teaching and technology to make learning smarter 
 
 <br/>
 
-###
-## 💻 Tech Stack
-<p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=python,django,html,css,javascript,react,nodejs,mysql,git,github,vscode" 
-    alt="Tech Stack Icons" 
-    height="40" />
-</p>
-
-<br/>
-
 ### 
 ## 🏅 Certifications
 - [Generative AI for Everyone by Andrew Ng – Coursera](https://www.coursera.org/account/accomplishments/verify/X71N35TDKHRV?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse)
